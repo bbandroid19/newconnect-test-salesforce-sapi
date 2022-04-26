@@ -219,7 +219,7 @@
 		</dependency>
 		<dependency>
             <groupId>b0beec90-c6cc-4c36-8f7c-ef1f8f91253b</groupId>
-            <artifactId>apix-accel-salesforce-sapi</artifactId>
+            <artifactId>newconnect-test-salesforce-sapi.raml</artifactId>
             <version>1.0.0</version>
             <classifier>raml</classifier>
             <type>zip</type>
